@@ -1,0 +1,24 @@
+{
+	"test_str": "should be a string",
+	"test_int": 1,
+	"test_bool": false,
+	"test_dictionary": {
+		"testing that this exits": "it does?",
+		"recursive_dir": {
+			"this worked": true
+		}
+	},
+	"test_array": [
+		1,
+		2,
+		3,
+		4
+	],
+	"test_array_of_dictionary": [
+		{
+			"did this work?": {
+				"answer": "I sure hope so"
+			}
+		}
+	]
+}
